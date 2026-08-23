@@ -1,0 +1,8 @@
+{
+  "name": "Hackverse Intel - Autonomous AI Research & Competitive Intelligence Tracker",
+  "description": "Autonomous multi-source intelligence tracker monitoring research papers, patents, competitor activities, and emerging trends with real-time impact scoring and cross-source correlation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
